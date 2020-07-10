@@ -1,5 +1,5 @@
-### Hi there 👋
-## 💬 Ask me about anything
+## Hi there 👋
+#### 💬 Ask me about anything
 
 <!--
 **Shawoll/Shawoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
