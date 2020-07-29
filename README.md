@@ -3,6 +3,7 @@
 
 #### I am accessible via
 :bird: [@Richard_Kollar](https://twitter.com/richard_kollar)
+:ballot_box_with_check: [Richard Kollar](https://www.linkedin.com/in/richard-koll%C3%A1r-704267132/)
 
 <!--
 **Shawoll/Shawoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
