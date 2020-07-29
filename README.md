@@ -2,7 +2,7 @@
 #### 💬 Ask me about anything
 
 #### I am accessible via
-[@Richard_Kollar](https://twitter.com/richard_kollar)
+:bird: [@Richard_Kollar](https://twitter.com/richard_kollar)
 
 <!--
 **Shawoll/Shawoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
