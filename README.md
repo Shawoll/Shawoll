@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### 💬 Ask me about anything
+#### 💬 Ask me about anything 💬
 
 #### I am accessible via
 :bird: [@Richard_Kollar](https://twitter.com/richard_kollar)  
