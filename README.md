@@ -8,3 +8,4 @@
      ___\\ \\     // //___
      >____)/_\---/_\(____<
 ```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6H428CUW3)
